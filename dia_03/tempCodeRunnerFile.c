@@ -1,0 +1,1 @@
+ printf(" gaurdem? ini=%d fin=%d col=%d",ini,fin,columna);
